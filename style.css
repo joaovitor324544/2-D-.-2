@@ -31,7 +31,9 @@ body {
     border-radius: 5px;
     padding: 1em;
     color: var(--branco-principal);
-    display: block;
+    display: block; 
+    text-decoration: none;
+    margin-bottom: 1em;
 }
 
 .botão_secundario {
