@@ -31,7 +31,7 @@ body {
     border-radius: 5px;
     padding: 1em;
     color: var(--branco-principal);
-    display: block; 
+    display: block;
     text-decoration: none;
     margin-bottom: 1em;
 }
@@ -44,7 +44,8 @@ body {
 .container_imagem {
     margin: 1em 0 2em 0;
 
-} 
-.container-caixa{ 
+}
+
+.container-caixa {
     margin: 0 6em;
 }
